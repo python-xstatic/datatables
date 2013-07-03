@@ -1,0 +1,3 @@
+^XStatic_DataTables.egg-info/
+^dist/
+\.pyc$
